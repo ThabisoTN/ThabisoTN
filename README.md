@@ -26,11 +26,11 @@ For more projects, visit my [Personal Website](https://thabisongubane.azurewebsi
 
 - **Bachelor of ICT Honours** - Durban University of Technology  
   *Major*: Applied Research  
-  **Feb 2024 - Dec 2024**
+  **Feb 2025 - Dec 2025**
 
 - **Advanced Diploma in ICT** - Durban University of Technology  
   *Major*: Applied Mathematics for Computing, Data Structures  
-  **Feb 2020 - Dec 2022**
+  **Feb 2024 - Dec 2024**
 
 - **Diploma in Application Development (Cum Laude)** - Durban University of Technology  
   *Major*: Application Development, Information Systems  
