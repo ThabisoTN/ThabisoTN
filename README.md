@@ -18,7 +18,7 @@ I'm Thabiso Ngubane, a passionate software developer from South Africa. With exp
    - **Technologies Used**: C#, JavaScript, ASP.NET Core, SQL, Generative AI
    - **Deployed on**: Microsoft Azure
 
-For more projects, visit my [Personal Website](https://thabisongubane.azurewebsites.net/).
+For more projects, visit my [Personal Website](https://thabisongubanee.azurewebsites.net/).
 
 ---
 
