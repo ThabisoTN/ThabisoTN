@@ -6,13 +6,13 @@ I'm Thabiso Ngubane, a passionate software developer from South Africa. With exp
 
 ## 🚀 Projects
 
-### 1. **GoDigi Career Guidance App**
+### 1. **GoDigi Career Guidance**
    [GoDigi Career Guidance](https://godigicareerguidance.azurewebsites.net/)
    - **Description**: A web application designed to analyze student marks and recommend career paths after course completion.
    - **Technologies Used**: C#, JavaScript, ASP.NET Core MVC, SQL, Generative AI
    - **Deployed on**: Microsoft Azure
 
-### 2. **AI Powered Task Management App**
+### 2. **TaskFlow**
    [AI Powered Task Manager](https://thabisotaskmanager.azurewebsites.net/)
    - **Description**: A task management system to help users track and manage tasks efficiently.
    - **Technologies Used**: C#, JavaScript, ASP.NET Core, SQL, Generative AI
