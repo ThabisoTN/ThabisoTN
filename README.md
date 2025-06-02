@@ -13,7 +13,7 @@ I'm Thabiso Ngubane, a passionate software developer from South Africa. With exp
    - **Deployed on**: Microsoft Azure
 
 ### 2. **TaskFlow**
-   [AI Powered Task Manager](https://thabisotaskmanager.azurewebsites.net/)
+   [TaskFlow](https://thabisotaskmanager.azurewebsites.net/)
    - **Description**: A task management system to help users track and manage tasks efficiently.
    - **Technologies Used**: C#, JavaScript, ASP.NET Core, SQL, Generative AI
    - **Deployed on**: Microsoft Azure
