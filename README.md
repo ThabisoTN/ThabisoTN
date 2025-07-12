@@ -40,8 +40,21 @@ For more projects, visit my [Personal Website](https://thabisongubanee.azurewebs
 
 ## 💼 Experience
 
+### **Dialer Administrator** - CCI Global
+**June 2025 - Present**
+-Manage and optimize dialer systems (Noble Systems and Genesys) to support high-volume call center operations.
+-Create, update, and monitor dialing campaigns and filter/list strategies across multiple geographies (UK, SA, AUS).
+-Analyze and manipulate client data using Microsoft SQL Server and advanced Excel for effective campaign setup.
+-Generate and automate dialer performance reports using SQL backend queries to support operational decision-making.
+-Collaborate with Operations Managers to align dialer strategy with business objectives and mitigate operational risks.
+-Provide real-time dialer monitoring and troubleshooting to ensure minimal downtime and maximum productivity.
+-Document dialer activity and support the development of campaign scripts and ad hoc reporting needs.
+-Utilize database and data structure knowledge to enhance call routing efficiency and campaign accuracy.
+---
+
+
 ### **Software Engineer Intern** - Lead HR Consulting  
-**July 2024 - Present**
+**July 2024 - June 2025**
 - Collaborated on the design, development, and maintenance of applications using C#, JavaScript, ASP.NET, and SQL.
 - Implemented secure user authentication and role-based access control using Identity, enhancing application security.
 - Designed and managed databases using SQL with a code-first approach, improving data retrieval efficiency.
@@ -49,7 +62,9 @@ For more projects, visit my [Personal Website](https://thabisongubanee.azurewebs
 - Utilized Entity Framework Core and LINQ for efficient database operations, queries, and migrations.
 - Deployed web applications on Microsoft Azure, ensuring high availability and scalability for seamless access.
 
----
+
+
+
 
 ## 🛠️ Skills
 
