@@ -42,14 +42,14 @@ For more projects, visit my [Personal Website](https://thabisongubanee.azurewebs
 
 ### **Dialer Administrator** - CCI Global
 **June 2025 - Present**
--Manage and optimize dialer systems (Noble Systems and Genesys) to support high-volume call center operations.
--Create, update, and monitor dialing campaigns and filter/list strategies across multiple geographies (UK, SA, AUS).
--Analyze and manipulate client data using Microsoft SQL Server and advanced Excel for effective campaign setup.
--Generate and automate dialer performance reports using SQL backend queries to support operational decision-making.
--Collaborate with Operations Managers to align dialer strategy with business objectives and mitigate operational risks.
--Provide real-time dialer monitoring and troubleshooting to ensure minimal downtime and maximum productivity.
--Document dialer activity and support the development of campaign scripts and ad hoc reporting needs.
--Utilize database and data structure knowledge to enhance call routing efficiency and campaign accuracy.
+- Manage and optimize dialer systems (Noble Systems and Genesys) to support high-volume call center operations.
+- Create, update, and monitor dialing campaigns and filter/list strategies across multiple geographies (UK, SA, AUS).
+- Analyze and manipulate client data using Microsoft SQL Server and advanced Excel for effective campaign setup.
+- Generate and automate dialer performance reports using SQL backend queries to support operational decision-making.
+- Collaborate with Operations Managers to align dialer strategy with business objectives and mitigate operational risks.
+- Provide real-time dialer monitoring and troubleshooting to ensure minimal downtime and maximum productivity.
+- Document dialer activity and support the development of campaign scripts and ad hoc reporting needs.
+- Utilize database and data structure knowledge to enhance call routing efficiency and campaign accuracy.
 ---
 
 
