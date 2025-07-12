@@ -50,7 +50,6 @@ For more projects, visit my [Personal Website](https://thabisongubanee.azurewebs
 - Provide real-time dialer monitoring and troubleshooting to ensure minimal downtime and maximum productivity.
 - Document dialer activity and support the development of campaign scripts and ad hoc reporting needs.
 - Utilize database and data structure knowledge to enhance call routing efficiency and campaign accuracy.
----
 
 
 ### **Software Engineer Intern** - Lead HR Consulting  
