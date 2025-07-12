@@ -62,7 +62,7 @@ For more projects, visit my [Personal Website](https://thabisongubanee.azurewebs
 - Deployed web applications on Microsoft Azure, ensuring high availability and scalability for seamless access.
 
 
-
+---
 
 
 ## 🛠️ Skills
