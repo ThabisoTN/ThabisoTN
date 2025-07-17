@@ -43,7 +43,7 @@ E-commerce platform for handmade crochet products with secure payment processing
 **Technologies**: ASP.NET Core MVC, SQL, JavaScript  
 **Deployment**: Microsoft Azure
 
-*[View all projects →](https://thabisongubanee.azurewebsites.net/projects)*
+*[View all projects →](https://thabisongubanee.azurewebsites.net/)*
 
 ---
 
